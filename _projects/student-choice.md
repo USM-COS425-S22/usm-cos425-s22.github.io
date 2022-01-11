@@ -1,12 +1,12 @@
 ---
 title: Project 4 - Your Application Here
-due: 2020-05-13 17:35:00
+due: 2022-05-11 17:35:00
 ---
 ## Specification
 For this project, you are going to build whatever app you have been dreaming of. It can be native or hybrid, iOS or Android, it can be wht you want! The only requirements are that is is relatively complex and uses the tools you have learned throughout the course. Let your App come to life!
 
 <!--more-->
-To begin work on Project 4 [Start the Project in Blackboard](https://bb.courses.maine.edu).
+To begin work on Project 4 [Start the Project in Brightspace](https://courses.maine.edu).
 
 ## Requirements
 Your app must meet the following requirements and specifications. Deviating from these will result in a reduced grade. Remember this project is graded on a two (2) point scale. If you don't meet all the requirements you will only get one (1) point.

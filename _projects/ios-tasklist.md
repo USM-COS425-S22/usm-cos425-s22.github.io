@@ -1,12 +1,12 @@
 ---
-title: Project 1 - iOS Task List
-due: 2020-02-19 17:35:00
+title: Project 2 - iOS Task List
+due: 2022-03-09 17:35:00
 ---
 ## Specification
 For this project, you are going to build a simple Task List app. Users will be able to open your app and add items to their todo list of things that they want to get done. Each item will have a name, a description, and a way to record whether it has been completed or not. Since we are early in the semester and have not yet covered data storage, the app should pre-populate with just a few example items at start up and work as intended while in use, but it does not have to remember the state of the list from run to run.
 
 <!--more--> 
-To begin work on Project 1 [Start the Project in Blackboard](https://bb.courses.maine.edu).
+To begin work on Project 1 [Start the Project in Brightspace](https://courses.maine.edu).
 
 ## Requirements
 
