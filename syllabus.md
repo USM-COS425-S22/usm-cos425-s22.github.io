@@ -5,8 +5,6 @@ layout: default
 ---
 # COS 425 Mobile Application Development
 
-USM Course Catalog: *Topics to be covered may include philosophy of computers, history of computers, computers and society, simulation, graphics, and other advanced topics. Prerequisite: COS 285 or permission of the instructor. Cr 3.*
-
 This course is about developing mobile applications. Students will develop for iOS with Swift, Android with Java, and Cross-platform with JavaScript/HTML/CSS. The course is almost entirely project oriented and will rely on students being well prepared in their reading, research, and development skills.
 
 <!--more-->
