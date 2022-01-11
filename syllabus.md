@@ -39,14 +39,14 @@ The course is entirely project-based. There will be one (1) introductory and fiv
 | Project   | Project               | Possible Points |
 | :---: | :---                      | :---:           |
 | 0   | GitHub                      |    1            |
-| 1   | iOS Tasklist (mini)         |    2            |
-| 2   | Android Task List (mini)    |    2            |
+| 1   | Android Task List (mini)    |    2            |
+| 2   | iOS Tasklist (mini)         |    2            |
 | 3   | Hybrid Task List (mini)     |    2            |          
 | 4   | *Choice* Task List (full)   |    2            |          
 | 5   | *Student Designed*          |    4            |          
 
 
-Your code will be submitted (checked in) on [GitHub](https://classroom.github.com/classrooms/30673287-usm-cos-460-540-computer-networks) to an assignment for each project. Details on what needs to be submitted will be included with each assignment. In all cases, you should submit only source code, no binary executable files. 
+Your code will be submitted (checked in) on [GitHub](https://classroom.github.com/classrooms/) to an assignment for each project. Details on what needs to be submitted will be included with each assignment. In all cases, you should submit only source code, no binary executable files. 
 
 Your code must compile and run on systems other than your own, specifically the instructor's system. Be diligent not to include absolute paths or other common mistakes that prevent your code being compiled and executed on other systems.
 
@@ -90,11 +90,11 @@ The following is the schedule for the course. Topic coverage and due dates may c
 | Date | Topic | Notes/Reading |
 | :---: | ---   | --- |
 | Week&nbsp;1 	| Introduction, Platforms, GitHub |  |
-| Week&nbsp;2  	| iOS | Project 0 (GitHub) Due |
-| Week&nbsp;3  	| iOS |  |
-| Week&nbsp;4  	| Android | Project 1 (iOS) Due |
-| Week&nbsp;5  	| Android | |
-| Week&nbsp;6  	| Hybrid Development |Project 2 (Android) Due |
+| Week&nbsp;2  	| Android | Project 0 (GitHub) Due |
+| Week&nbsp;3  	| Android | |
+| Week&nbsp;4  	| iOS | Project 1 (Android) Due |
+| Week&nbsp;5  	| iOS |  |
+| Week&nbsp;6  	| Hybrid Development |Project 2 (iOS) Due |
 | Week&nbsp;7 	| Hybrid Development | |
 | Week&nbsp;8 	| Data Persistence | Project 3 (Hybrid) Due,<br/> Project 5 (choice) Proposal Due |
 | Week&nbsp;9 	| Server Side | |
