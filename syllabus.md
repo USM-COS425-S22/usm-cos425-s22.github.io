@@ -3,7 +3,7 @@ title: Syllabus
 permalink: /syllabus
 layout: default
 ---
-# COS 470 Mobile Application Development
+# COS 425 Mobile Application Development
 
 USM Course Catalog: *Topics to be covered may include philosophy of computers, history of computers, computers and society, simulation, graphics, and other advanced topics. Prerequisite: COS 285 or permission of the instructor. Cr 3.*
 

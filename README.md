@@ -1,3 +1,3 @@
-# usm-cos470.github.io
+# usm-cos425.github.io
 
-USM COS 470 Course Site (Spring 2020)
+USM COS 425 Course Site (Master)
