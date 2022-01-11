@@ -39,11 +39,10 @@ The course is entirely project-based. There will be one (1) introductory and fiv
 | Project   | Project               | Possible Points |
 | :---: | :---                      | :---:           |
 | 0   | GitHub                      |    1            |
-| 1   | Android Task List (mini)    |    2            |
-| 2   | iOS Tasklist (mini)         |    2            |
-| 3   | Hybrid Task List (mini)     |    2            |          
-| 4   | *Choice* Task List (full)   |    2            |          
-| 5   | *Student Designed*          |    4            |          
+| 1   | Android Task List (mini)    |    4            |
+| 2   | iOS Tasklist (mini)         |    4            |
+| 3   | Hybrid Task List (mini)     |    4            |
+| 4   | *Student Designed*          |    6            |
 
 
 Your code will be submitted (checked in) on [GitHub](https://classroom.github.com/classrooms/) to an assignment for each project. Details on what needs to be submitted will be included with each assignment. In all cases, you should submit only source code, no binary executable files. 
@@ -62,15 +61,7 @@ The grading rubric for each project and the presentation is extremely simple.
 | 1     | Completed the project or gave presentation. |
 | 0     | Did not complete the assignment. |
 
-#### Projects 1-4:
-
-| Score | Notes |
-| :---: | :---  |
-| 2     | Satisfies all requirements, is well coded, and well laid out. |
-| 1     | Satisfies some/most requirements, has some code style problems, has some layout problems. |
-| 0     | Does not compile, does not work, does not satisfy the requirements |
-
-#### Project 5:
+#### Project 1-4:
 
 | Score | Notes |
 | :---: | :---  |
@@ -79,6 +70,16 @@ The grading rubric for each project and the presentation is extremely simple.
 | 2     | Satisfies some requirements, has some code style problems, has some layout problems. |
 | 1     | Satisfies only a few requirements, compiles and runs but with serious problems. |
 | 0     | Does not compile, does not work, does not satisfy the requirements |
+
+#### Project 4:
+
+Two additional points are awarded to Project 4 for a presentation.
+
+| Score | Notes |
+| :---: | :---  |
+| 2     | Gave presentation, met all presentation requirements. |
+| 1     | Gave presentation, met some presentation requirements. |
+| 0     | Did not give a presentation. |
 
 ## Examinations 
 None.
