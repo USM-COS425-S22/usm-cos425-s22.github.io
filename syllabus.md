@@ -58,7 +58,8 @@ The grading rubric for each project and the presentation is extremely simple.
 
 | Score | Notes |
 | :---: | :---  |
-| 1     | Completed the project or gave presentation. |
+| 2     | Completed the project. |
+| 1     | Completed some of the project. |
 | 0     | Did not complete the assignment. |
 
 #### Project 1-4:
@@ -113,10 +114,10 @@ Schedule of Point Accumulation for Final Grade:
 
 | Points    | Grade |
 | :---:     | :---: |
-| 13 - 14   | A     |
-| 11 - 12   | B     |
-| 8 - 10    | C     |
-| 6 - 7     | D     |
+| 18 - 20   | A     |
+| 16 - 18   | B     |
+| 12 - 16   | C     |
+| 10 - 12   | D     |
 | 0 - 5     | F     |
 
 ## Late Policy
