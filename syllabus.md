@@ -36,7 +36,7 @@ The course is entirely project-based. There will be one (1) introductory and fiv
 
 | Project   | Project               | Possible Points |
 | :---: | :---                      | :---:           |
-| 0   | GitHub                      |    1            |
+| 0   | GitHub                      |    2            |
 | 1   | Android Task List (mini)    |    4            |
 | 2   | iOS Tasklist (mini)         |    4            |
 | 3   | Hybrid Task List (mini)     |    4            |
