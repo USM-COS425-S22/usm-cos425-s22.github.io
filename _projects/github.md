@@ -34,7 +34,7 @@ You need to do the following:
 * Don't delete your branch (or anything else with the process). We will be checking these!
 
 ## Part 2 - Tell Me About Your Winter Break!
-NOTE: Before this step will work, I need to add your GitHub Username to the class group for the repo. Do that on the [Google form](https://goo.gl/forms/baGfS7GlTTzWGv8x1). I will try to update the group members consistently, so check back here in a day or so after you register.
+NOTE: Before this step will work, I need to add your GitHub Username to the class group for the repo. Do that on the [Google form](https://forms.gle/9ZNwBo3p1fFMvB6F9). I will try to update the group members consistently, so check back here in a day or so after you register.
 
 * Go to [https://github.com/USM-COS425-S22/cos425-group](https://github.com/USM-COS425-S22/cos425-group)
 * Fork and then clone the repository to your working area.
