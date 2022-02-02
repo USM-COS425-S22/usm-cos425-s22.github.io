@@ -9,9 +9,9 @@ For this project, you are going to build a simple Task List app. Users will be a
 To begin work on Project 2 [Start the Project in Brightspace](https://courses.maine.edu).
 
 ## Requirements
-Your app must meet the following requirements and specifications. Deviating from these will result in a reduced grade. Remember this project is graded on a two (2) point scale. If you don't meet all the requirements you will only get one (1) point.
+Your app must meet the following requirements and specifications. Deviating from these will result in a reduced grade. Remember this project is graded on a two (4) point scale.
 
-You will be doing this app in Java. There are a number of Android tutorials, but I've not found one that gets you as far along as there was with iOS. Your Java programming will help you quite a bit, but keep in mind that Android has its own way of doing things.
+You will be doing this app in Kotlin. There are a number of Android tutorials, but I've not found one that gets you as far along as there was with iOS. Your Java programming will help you quite a bit, but keep in mind that Android has its own way of doing things and Kotlin is a bit different.
 
 The app shall be made up of three total screens:
 
@@ -23,30 +23,28 @@ More detailed information about each screen is found below.
 
 To accomplish this, you will (most likely) have some set of the following files in your project:
 
-* `TaskListActivity.java` - The "main" activity for the app, uses ListView or RecyclerView (better)
-* `TaskListAdapter.java` - the adapter class that handles how a `Task` appears on a list.
-* `TaskDetailActivity.java` - an activity that shows the details of a task
-* `NewTaskActivity.java` - an activity that lets you add a new task.
-* `Task.java` - the model representing a single task
+* `TaskListActivity.kt` - The "main" activity for the app, use RecyclerView
+* `TaskDetailActivity.kt` - an activity that shows the details of a task
+* `NewTaskActivity.kt` - an activity that lets you add a new task.
+* `Task.kt` - the model representing a single task
 
 ### TaskListActivity, TaskListAdapter, and Task
 
-A very large portion of your overall code base will go into these three files. There are a lot of tutorials out there on how to do this. You should read through several to get a feel for all of the different functions you have to override, etc. 
+A very large portion of your overall code base will go into these three classes. There are a lot of tutorials out there on how to do this. You should read through several to get a feel for all of the different functions you have to override, etc.
 
 * When the app starts a list of tasks should appear with checkboxes next to them
-	* Use a ListView or RecyclerView (better) to display items from the task list
+	* Use a RecyclerView to display items from the task list
 * Tapping on the checkbox should mark the item as complete or not complete as appropriate
 * Clicking on an item should bring up an edit task screen (below)
-	* You should use `startActivityForResult()` to launch the edit detail activity
-	* Also capture the result with `onActivityResult()`
+	* You should use `startActivity()` to launch the edit detail activity
+	* Also capture the result with `registerForActivityResult()`
 * There should be a `+` floating action button to add a new item to the list
-	* You should use `startActivityForResult()` to launch the edit detail activity
-	* Also capture the result with `onActivityResult()`
+	* You should use `startActivity()` to launch the edit detail activity
+	* Also capture the result with `registerForActivityResult()`
 
 ### Task
 
 * Has all the fieds for a task item (name, completed, due date, notes)
-* Should have `compareTo()` so it can be ordered in an `ArrayList`
 * The class should have a factory method `createInitalTaskList()` to create initial hard-coded tasks. This should get called in `onCreate()` of `TaskListActivity`
 
 ### TaskListAdapter
@@ -55,7 +53,7 @@ A very large portion of your overall code base will go into these three files. T
 
 ### Add Item / Edit Item Activity
 
-The add and/or edit item should be a separate activity and launched from the `TaskListActivity` via an intent, `startActivityForResult()`. The Add/Edit activity should have the same look and feel as your `TaskListActicity` does.
+The add and/or edit item should be a separate activity and launched from the `TaskListActivity` via an intent, `startActivity()`. The Add/Edit activity should have the same look and feel as your `TaskListActicity` does.
 
 * Must have an `X` or back arrow in the upper left corner which cancels the current operation.
 * Must have `Save` in the upper right which will save changes to a current task or the details of a new task and return to the main activity with the list updated.
