@@ -22,7 +22,7 @@
   date: '2022-02-02 05:35'
   meeting: '3'
   topic: 'Android (Kotlin) Activities and Intents'
-  reading: '[Ray Wenderlich Android Tutorials](https://www.raywenderlich.com/category/android), [Material Design To Do List Tutorial](http://dandroiddeveloper.github.io/list)'
+  reading: '[Ray Wenderlich Android Tutorials](https://www.raywenderlich.com/category/android), [Material Design To Do List Tutorial](http://dandroiddeveloper.github.io/list)', [Android Kotlin Fundamentals](https://developer.android.com/courses/kotlin-android-fundamentals/overview)
   notes: '[Project 0 - GitHub Due](/projects/github)'
 
 -
@@ -31,7 +31,7 @@
   date: '2022-02-09 05:35'
   meeting: '4'
   topic: 'Android (Kotlin)'
-  reading: '[Android Activities](https://developer.android.com/guide/components/activities/index.html), [React Native](http://facebook.github.io/react-native/), [React Native - Learn the Basics](http://facebook.github.io/react-native/docs/tutorial.html)'
+  reading: '[Android Activities](https://developer.android.com/guide/components/activities/index.html),   
   notes: ''
 
 -
@@ -67,7 +67,7 @@
   date: '2022-03-09 05:35'
   meeting: '8'
   topic: 'Hybrid Development (JavaScript) Basics'
-  reading: '[Expo Snack IDE](https://snack.expo.io/)'
+  reading: '[Expo Snack IDE](https://snack.expo.io/)', [React Native](http://facebook.github.io/react-native/), [React Native - Learn the Basics](http://facebook.github.io/react-native/docs/tutorial.html)'
   notes: '[Project 2 - iOS Due](/projects/ios-tasklist)'
 
 -
