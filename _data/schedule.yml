@@ -87,7 +87,7 @@
   date: '2022-03-23 05:35'
   meeting: '9'
   topic: 'Hybrid Development (JavaScript) Basics'
-  reading: '[Expo Snack IDE](https://snack.expo.io/), [React Native](http://facebook.github.io/react-native/), [React Native - Learn the Basics](http://facebook.github.io/react-native/docs/tutorial.html)'
+  reading: '[Expo Snack IDE](https://snack.expo.io/), [React Native](http://facebook.github.io/react-native/), [React Native - Learn the Basics](http://facebook.github.io/react-native/docs/tutorial.html), [React Native Getting Started](https://reactnative.dev/docs/getting-started)'
   notes: '[Project 2 - iOS Due](/projects/ios-tasklist)'
 
 
@@ -97,7 +97,7 @@
   date: '2022-03-30 05:35'
   meeting: '10'
   topic: 'Hybrid Development (JavaScript)'
-  reading: '[Building the Task List in React Native](https://shellmonger.com/2017/05/19/__trashed/)'
+  reading: '[Building the Task List in React Native](https://shellmonger.com/2017/05/19/__trashed/), [React Native Crash Course](https://www.youtube.com/watch?v=Hf4MJH0jDb4)'
   notes: ''
 
 -
@@ -106,7 +106,7 @@
   date: '2022-04-06 05:35'
   meeting: '11'
   topic: 'Hybrid Development (JavaScript)'
-  reading: '[Building the Task List in React Native](https://shellmonger.com/2017/05/19/__trashed/)'
+  reading: '[Awesome React Native](https://github.com/jondot/awesome-react-native#components)'
 
 
 -
